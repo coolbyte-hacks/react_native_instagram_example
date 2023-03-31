@@ -1,0 +1,95 @@
+[
+  {
+    "id": "1",
+    "createdAt": "1 January 2023",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/1.jpg",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur dicta, eius consectetur voluptas, a voluptatum minima esse alias quo quasi suscipit iste possimus non laborum tempora. Omnis ipsa illo consequatur.",
+    "user": {
+      "id": "1",
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
+      "userName": "DarrenC"
+    },
+    "noOfComments": 11,
+    "noOfLikes": 33,
+    "comments": [
+      {
+        "id": "1",
+        "comment": "First Post First Comment",
+        "user": {
+          "id": "1",
+          "userName": "Me"
+        }
+      },
+      {
+        "id": "2",
+        "comment": "First Post Second Comment",
+        "user": {
+          "id": "2",
+          "userName": "Not Me"
+        }
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "createdAt": "1 January 2023",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/2.jpg",
+    "description": "First Post",
+    "user": {
+      "id": "1",
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/2.jpg",
+      "userName": "DarrenC"
+    },
+    "noOfComments": 11,
+    "noOfLikes": 33,
+    "comments": [
+      {
+        "id": "1",
+        "comment": "First Post First Comment",
+        "user": {
+          "id": "1",
+          "userName": "Me"
+        }
+      },
+      {
+        "id": "2",
+        "comment": "First Post Second Comment",
+        "user": {
+          "id": "2",
+          "userName": "Not Me"
+        }
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "createdAt": "1 January 2023",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/3.jpg",
+    "description": "First Post",
+    "user": {
+      "id": "1",
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/3.jpg",
+      "userName": "DarrenC"
+    },
+    "noOfComments": 11,
+    "noOfLikes": 33,
+    "comments": [
+      {
+        "id": "1",
+        "comment": "First Post First Comment",
+        "user": {
+          "id": "1",
+          "userName": "Me"
+        }
+      },
+      {
+        "id": "2",
+        "comment": "First Post Second Comment",
+        "user": {
+          "id": "2",
+          "userName": "Not Me"
+        }
+      }
+    ]
+  }
+]
